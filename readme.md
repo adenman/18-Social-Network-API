@@ -14,11 +14,15 @@ The purpose of this application is to to able to view, add, manipulate, and dele
 ## Design
 
 
-<video controls src="bandicam 2024-10-06 00-41-17-678.mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/a0851be5-4227-4ff4-8b32-dc90999e39d9
 
 
 
-<video controls src="bandicam 2024-10-06 00-54-36-810.mp4" title="secondVid"></video>
+
+https://github.com/user-attachments/assets/b701a417-9e3d-4aec-84be-ea25e868f3cd
+
 
 
 
